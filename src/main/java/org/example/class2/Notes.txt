@@ -1,0 +1,10 @@
+String:
+    A non-primitive data type that is used to store multiple
+    characters in a variable.
+
+String Concatenation:
+    Text in JAVA will be strings.
+    It allows us to join/link 2 strings together.
+
+We cannot use the plus operator for boolean
+but, we can use it for int weghaira and String

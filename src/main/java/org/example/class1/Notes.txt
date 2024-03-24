@@ -1,0 +1,22 @@
+Variable Rules:
+1) We can't use the same name for 2 or
+more variables within the same class.
+EG. We cannot do this:
+int age=20;
+float age=20.3;
+2) We can't have spaces in the names of the variables.
+EG. int my age=20;
+3) Variable names can't start with
+numbers or special characters. We can end it though.
+4) Every line must end with ";" or ")"
+
+All classes start with Upper Case Letter
+
+Packages methods and variables start with a Lower
+Case Letter.
+
+For paragraph comments
+/* blah blah
+blah blah
+b lah blah
+blah blah  */

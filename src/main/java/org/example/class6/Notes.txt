@@ -1,0 +1,20 @@
+Loops in programming:
+    Loops help us execute a block of code again and again
+    until a condition is met, Once the condition is met the loop stops.
+
+Fundamentals:
+    A Loop should always have
+    1) variable
+    2) starting point
+    3) condition
+    4) increment/decrement operator
+
+Why should we use loops?
+    To end up with a scalable code. We cannot write the same code multiple times.
+    So to avoid code redundancy
+
+* Operators we use ++, --
+* We use "do" and "while" when using loops
+* In "while" we check the condition first
+* In "do" we execute the code first
+* Most widely use loop is "for" loop

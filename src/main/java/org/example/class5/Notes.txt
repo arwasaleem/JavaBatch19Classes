@@ -1,0 +1,23 @@
+Scanner Class:
+    Scanner is a class that helps us take input data from the user
+    from the keyboard. Just like scanner class we have so many other
+    classes that we can use from Java and other libraries.
+
+    These classes are divided into methods, each method can do something
+    useful. Like nextInt(), nextBoolean(), nextDouble().
+
+Logical Operators:
+    Used to combine multiple conditions. There are 3 logical operators in java:
+    1) Logical NOT "!"
+    It reverses the situation (true becomes false and vice-versa)
+    2) Logical AND "&&"
+    3) Logical OR "||"
+
+Switch Statements:
+for equality statement types always try to use switch instead of ifElseIf
+
+Important Notes:
+    Every Class in java also acts as a data type. We can
+    create variables of these classes.
+    If we want to reuse some codes from a class, we can create its objects
+    and then we can start calling those methods.

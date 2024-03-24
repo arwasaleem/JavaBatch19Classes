@@ -1,0 +1,28 @@
+Difference b/w print and println
+"print ln" moves the text to the next line
+If you want to print things on the same line use "print"
+
+What are variables?
+    Variables are like containers that we use to sore
+    data in our programs.
+
+What are DataTypes?
+    Used to store/identify different types of
+    data in variables.
+
+How do we decide what data types should we use for variables?
+Type of data we are planning to store.
+Type of operation we will be performing.
+
+What are naming conventions in java:
+    Other will not be able to understand your code easily.
+    1) For variables we use cameCase.
+    2) For class names we use PascalCase.
+    3) For packages they are always in lowercase.
+Arithmetic Operators:
++ - / %
+
+
+
+
+

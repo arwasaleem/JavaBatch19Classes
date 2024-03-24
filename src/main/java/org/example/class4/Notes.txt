@@ -1,0 +1,21 @@
+1) IfElseIf:
+    Out of multiple conditions only one is selected.
+    No dependency of conditions
+
+2) Else
+    When none of the conditions are met then this condition is true
+
+3) When comparing we use "=="
+When assigning value we use "="
+
+4) Nested If Conditions:
+    "If" condition inside another if condition
+    One "if" condition depends on the other if condition
+
+5) "CTRL+ALT+L" to format your code nicely
+
+6) Double-click on the code inside if condition to highlight all the code under that condition
+
+7) Scanner Class:
+    Used to take the input of the user from the keyword.
+Hold the CTRL button and can click on the class to check explanation

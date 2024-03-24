@@ -1,0 +1,13 @@
+What is OOPs (Object-Oriented Programming):
+    1) Famous type of technique we use to write large codes.
+    2) Inheritance: helps us avoid code duplication/repetition.
+    3) Abstraction: Lets us write codes into modular (smaller chunks) form.
+    4) Polymorphism: helps us write dynamic code (same code doing different things).
+    5) Helps us write secure code.
+
+Class:
+    A class represents objects which have similar properties and behaviors.
+    We use these classes to create things quickly and efficiently.
+    It's like a design/blueprint that helps us build objects quickly.
+    We do not need a main method when defining a class. We create the main method after that.
+    Every class in JAVA can act as a datatype.
