@@ -20,13 +20,13 @@ public class Task1_1 {
         String userName = scan.nextLine();
         System.out.println("Please enter password");
         String password = scan.nextLine();
-        System.out.println("Please renter password");
+        System.out.println("Please re-enter password");
         String confirmPassword = scan.nextLine();
         if(userName.isEmpty()||password.isEmpty()){
             System.out.println("Username or Password cannot be empty");
-        } if(password.length()<8){
+        } else if(password.length()<8){
             System.out.println("Password is too short");
-        } if(password.contains(userName)){
+        } else if(password.contains(userName)){
             System.out.println("Password cannot contain username");
         }else if(!password.equals(confirmPassword)){
             System.out.println("Passwords do not match");

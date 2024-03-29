@@ -1,3 +1,6 @@
 String Class:
     String is the most widely used class in java. It contains a lot
     of Methods which can help us process text very easily.
+
+Data type of the variable will always have the same name of the class that we are trying to use.
+It should not have the names of the class in which we are creating that class.
