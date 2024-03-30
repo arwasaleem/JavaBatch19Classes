@@ -43,7 +43,8 @@ Static Variables:
     Upside:
         Highest visibility can be accessed inside the class in any block of
     code can be accessed in static or non-static methods. Can be accessed
-    outside class if coupled with a proper access modifier.
+    outside class if coupled with a proper access modifier. When we don't have any instance
+    variables in the class, then you can create static methods
     Downside:
         They occupy the memory for longest.
 
@@ -53,4 +54,5 @@ When should we use static variables?
     the objects or the information that stays
     the same for all the objects, we should store
     it in static variables.
+
 
