@@ -15,3 +15,6 @@ Syntax Of Method:
     sout (a+b);
 
     }
+
+If the method is Void don't have to write return as we can sout. But for all other methods
+at least one time we have to write return.

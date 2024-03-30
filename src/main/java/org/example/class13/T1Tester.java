@@ -5,6 +5,8 @@ public class T1Tester {
 
         Task1 t1=new Task1();
      String email=  t1.createEmail("John","Snow","Gmail");
+     //System.out.println(email);
+
      if(email.contains("John")){
          System.out.println("Good");
      }

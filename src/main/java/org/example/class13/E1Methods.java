@@ -36,6 +36,10 @@ public class E1Methods {
     public static void main(String[] args) {
         E1Methods e1=new E1Methods();
         e1.sayHello("Serbia");
+        e1.sayHello("France");
+        e1.sayHello("USA");
+        e1.sayHello("Spain");
+        e1.sayHello("Egypt");
 
     }
 
