@@ -11,6 +11,7 @@ public class E12Arrays {
             }
         }
         System.out.println(max);
+
         
     }
 }
