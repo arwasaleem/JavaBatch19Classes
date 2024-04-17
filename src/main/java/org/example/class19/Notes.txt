@@ -1,0 +1,23 @@
+Method Overriding:
+    Method Overriding allows us to Override methods
+    from the parent classes. You can change the access modifiers.
+
+If you want to change something, change in the child class not the parent class. Or ele it is going
+to change in each child's class
+
+You can move from most restricted to the least restricted but not vice versa.
+Private -> Default -> Protected -> Public
+
+you can use @ as the annotation override.
+@Override tells you if you are doing the override correctly or not
+
+1) Private Methods cannot be over-ridden,
+2) Constructors can be over-ridden because two constructors can't have the same name
+and each class has its own constructor.
+3) Static Methods cannot be over-ridden but can be re-declared.
+
+Object type casting:
+Final keyword:
+1) Can use it with a variable, once the value is assigned we will not be able to change that value
+2) Can use it with a method, once the value is assigned no child class will be able to override it
+3) Can use it with a class, once assigned no other class will be able to use it

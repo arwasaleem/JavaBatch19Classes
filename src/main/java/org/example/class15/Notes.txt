@@ -1,0 +1,19 @@
+Access Modifiers:
+    Access modifiers are basically keywords in java that
+    help us control what can be accessed outside
+    a class like fields and methods.
+    private: everyone cannot access this
+    protected: if you have to use it within the class
+    public: anyone can access even if they are ina different package
+    Static: we used when we create nested classes (class within a class)
+Constructors:
+    Constructors help us build the object of a class easily. They
+    are a special block of code which is created to give initial
+    values to the instance variables.
+
+    1) We do not write any written type for constructors
+    2) It cannot have any other name other than the class
+
+Whenever we write static with a method we can just write the class name to access it.
+We do not have to create an object for it.
+

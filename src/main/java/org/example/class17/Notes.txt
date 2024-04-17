@@ -1,0 +1,22 @@
+Inheritance:
+    It is one of the main pillars of OOPs. It allows one class to
+    acquire the fields and the properties of another class.
+
+Why should we use Inheritance?
+    It helps us save a lot of code repetitions. When we are creating multiple closely related classes
+    We should create a parent class and put the code in it.
+
+Rules:
+    1) All the private members (instance vars,method) Can't be used
+    through inheritance.
+
+Types of inheritance:
+    Single, hierarchical, Multi-level and Multiple.
+    Java does not support multiple because the child class has multiple parents and it will
+    be confusing.
+
+SuperKeyword:
+    To access instance variable if the parent and child class have members with the same name.
+    It helps you access the variable directly from the parent class
+    "this" keyword lets you access only from the immediate parent
+
