@@ -1,0 +1,42 @@
+Abstraction:
+    Abstraction allows us to pay attention to the functionality instead of implementation details
+    and to enforce methods into child classes (they do not have the option of ignoring them).
+    The methods we do not know how to implement, how to write the logic. We abstract them.
+
+Why Should we use Abstraction?
+    1) We can make sure that everybody is on the same
+    page.
+    2) We can focus only on those parts which we are
+    supposed to do and let others worry about the rest.
+
+Final: We cannot change or override the method. So if you want a field
+that should be changed by anyone, you put the final keyword with it.
+You can final the class that is not going to be override by the child class or that is not going to be
+extended by a child class.
+
+Abstract: Still requires change since it is not complete yet
+So "final" and "abstract" keyword cannot be used/written together
+
+Interview Questions:
+    Can we create the object of the abstract class?
+        No, because these classes are not complete since they have unimplemented methods.
+    Can we have instance variables in the abstract class?
+        Yes. Why is Instance variable needed in the abstract class? - Children can inherit the instance
+        variable and use within their classes.
+    Can we use the final keyword with abstract method?
+        Because "abstract" and "final" keywords are completely opposite and contradict each other
+        we cannot use them together.
+    Can I make abstract and final together?
+        If we make a class final, no other class can inherit from that class. So it is impossible
+        to make the class both final and abstract.
+    Can I make abstract method private?
+        No, Because if the class is private, we cannot access it and cannot override it.
+        Abstract class is supposed to be overridden.
+    Can I make abstract method protected?
+        Yes, because child classes can still access it. Default and public access modifiers are permitted too.
+    Can I have static methods in abstract class?
+        Yes, because we can call these methods directly,
+    Can we have static and abstract together for a method?
+        No, we can't override a method and will not be able to make it static and abstract. We can redeclare
+        a static method though.
+

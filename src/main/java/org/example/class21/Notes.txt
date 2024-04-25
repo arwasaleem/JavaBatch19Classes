@@ -1,0 +1,18 @@
+ Interface:
+    Interfaces are like contracts They can contain abstract methods
+    and constant variables. The main purpose of Interface is to use abstraction.
+
+*By default, every method in an Interface is Abstract and Public; private and protected cannot be used.
+Although they can have Public, Static and Final.
+*Instance methods cannot have a body unlike in Classes.
+*Interface cannot have instance variables, therefore no need of constructors.
+
+When should we use interface?
+    When classes are closely related to each other, we should go with abstract classes as we
+    will be able to use inheritance to avoid code repetition, and when child classes are not related to
+    each other, then we should go with interfaces.
+
+Encapsulation:
+    In Java, for everything create a class, to store the date in every class create instance variable and make them private
+    Encapsulation focuses on security. Then provide public setter and getter methods to modify and view the variables.
+
